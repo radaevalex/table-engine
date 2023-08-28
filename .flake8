@@ -1,0 +1,8 @@
+[flake8]
+import-order-style = pep8
+max-line-length=120
+ignore = W391, D100, D101, D107, D104, D400, D205, D204, E226, D105, D401, D202, ANN101, ANN003, ANN002, ANN001, ANN204
+exclude = tests/*
+
+
+

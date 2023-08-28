@@ -1,0 +1,5 @@
+# table_engine_db postgresql extension
+comment = 'table_engine_db postgresql extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/table_engine_db'
+relocatable = true

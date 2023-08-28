@@ -1,0 +1,1 @@
+recursive-include table_engine *.py *.so *.dll
